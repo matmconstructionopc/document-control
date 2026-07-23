@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>MATM Document Verification</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #f4f6f8;
+    margin: 0;
+    padding: 30px;
+}
+
+.container {
+    max-width: 750px;
+    margin: auto;
+    background: white;
+    padding: 35px;
+    border-radius: 12px;
+}
+
+.header {
+    text-align: center;
+}
+
+.status {
+    background: #e8f5e9;
+    color: #2e7d32;
+    padding: 12px;
+    border-radius: 8px;
+    text-align: center;
+    font-weight: bold;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+
+td, th {
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+th {
+    background: #f0f0f0;
+}
+
+.footer {
+    margin-top: 30px;
+    font-size: 12px;
+    color: #666;
+    text-align: center;
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<div class="container">
+
+
+<div class="header">
+
+<h1>
+MATM CONSTRUCTION OPC
+</h1>
+
+<h2>
+DOCUMENT AUTHENTICATION & VERIFICATION
+</h2>
+
+</div>
+
+
+<hr>
+
+
+<div class="status">
+
+🟢 DOCUMENT VERIFIED
+
+</div>
+
+
+
+<h3>Document Information</h3>
+
+
+<table>
+
+
+<tr>
+<td><b>Document No.</b></td>
+<td>MATM-MCS-FPB-01</td>
+</tr>
+
+
+<tr>
+<td><b>Document Title</b></td>
+<td>
+MATERIAL COMPLIANCE STATEMENT
+</td>
+</tr>
+
+
+<tr>
+<td><b>Project</b></td>
+<td>
+Construction of Gate and Guardhouse 1 & 2
+</td>
+</tr>
+
+
+<tr>
+<td><b>Project Location</b></td>
+<td>
+Futura Primo Phase 1, Balanga City, Bataan
+</td>
+</tr>
+
+
+<tr>
+<td><b>Client</b></td>
+<td>
+SharePro, Inc.
+</td>
+</tr>
+
+
+<tr>
+<td><b>Revision</b></td>
+<td>
+00
+</td>
+</tr>
+
+
+<tr>
+<td><b>Status</b></td>
+<td>
+FOR APPROVAL
+</td>
+</tr>
+
+
+<tr>
+<td><b>Date Issued</b></td>
+<td>
+July 23, 2026
+</td>
+</tr>
+
+
+</table>
+
+
+
+
+<h3>Revision History</h3>
+
+
+<table>
+
+<tr>
+<th>Revision</th>
+<th>Date</th>
+<th>Description</th>
+<th>Status</th>
+</tr>
+
+
+<tr>
+
+<td>
+00
+</td>
+
+<td>
+July 23, 2026
+</td>
+
+<td>
+Initial Issue
+</td>
+
+<td>
+Current
+</td>
+
+</tr>
+
+
+</table>
+
+
+
+
+<div class="footer">
+
+
+This verification confirms that the above document record is registered under
+MATM Construction OPC Document Control System.
+
+
+<br><br>
+
+
+This online verification confirms document authenticity and the current revision status only.
+
+
+<br><br>
+
+
+© MATM CONSTRUCTION OPC
+
+
+</div>
+
+
+
+</div>
+
+
+</body>
+
+</html>
